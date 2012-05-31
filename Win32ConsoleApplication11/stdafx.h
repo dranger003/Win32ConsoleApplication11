@@ -18,7 +18,8 @@
 
 // TODO: reference additional headers your program requires here
 
-#import "..\\..\\WindowsFormsApplication4\\WindowsFormsApplication4\\bin\Debug\\ClassLibrary1.tlb"
+//#import "..\\..\\WindowsFormsApplication4\\WindowsFormsApplication4\\bin\Debug\\ClassLibrary1.tlb"
+#import "..\\..\\WindowsFormsApplication4\\WindowsFormsApplication4\\bin\Debug\\WindowsFormsApplication4.tlb"
 
 //#ifdef _UNICODE
 //#if defined _M_IX86
